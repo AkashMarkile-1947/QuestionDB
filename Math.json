@@ -1,0 +1,187 @@
+[
+    {
+        "Question": "f C(20, n + 2) = C(20, n - 25, then what is n equal to ?",
+        "optionA": "18",        
+        "optionB": "25",        
+        "optionC": "10",        
+        "optionD": "12",        
+        "correctAns": "optionC",
+        "tags": ["Maths", "Permutation and Combination"]
+    },
+    {
+        "Question": "The number (1101101 + 1011011)2 can be  written in decimal system as ",
+        "optionA": "(198)10",        
+        "optionB": "(199)10",        
+        "optionC": "(200)10",        
+        "optionD": "(201)10",        
+        "correctAns": "optionC",
+        "tags": ["Maths", "Number system"]
+    },
+    {
+        "Question": "If 1.5 ≤ x ≤ 4.5, then which one of the following is correct ?",
+        "optionA": "(2x - 3) (2x - 9) > 0",        
+        "optionB": "(2x - 3)(2x - 9) < 0",        
+        "optionC": "(2x - 3) (2x - 9) ≥ 0",        
+        "optionD": "(2x - 3) ",        
+        "correctAns": "optionD",
+        "tags": ["Maths", "Quadratic equations"]
+    },
+    {
+        "Question": "If tan 𝜃 = (cos17°-sin17°) / (cos17°+sin17°), then what is the value of 𝜃 ?",
+        "optionA": "0°",        
+        "optionB": "28°",        
+        "optionC": "38°",        
+        "optionD": "52°",        
+        "correctAns": "optionB",
+        "tags": ["Maths", "Trigonometry"]
+    },
+    {
+        "Question": " The value of ordinate of the graph of y = 2 + cos x lies in the interval",
+        "optionA": "[0, 1]",        
+        "optionB": "[0, 3]",        
+        "optionC": "[-1, 1]",        
+        "optionD": "[1, 3]",        
+        "correctAns": "optionD",
+        "tags": ["Maths", "Coordinate Geometry"]
+    },
+    {
+        "Question": "What is the value of 8 cos 10° . cos 20° . cos 40° ?",
+        "optionA": "tan 10°",        
+        "optionB": "cot 10°",        
+        "optionC": "cosec 10°",        
+        "optionD": "sec 10°",        
+        "correctAns": "optionB",
+        "tags": ["Maths", "Trigonometry"]
+    },
+    {
+        "Question": "If cot A and cot B are the roots of the equation x 2 - 3x + 2 = 0, then what is cot(A + B) equal to ? ",
+        "optionA": "1/2",        
+        "optionB": "1/3",        
+        "optionC": "2",        
+        "optionD": "3",        
+        "correctAns": "optionB",
+        "tags": ["Maths", "Trigonometry"]
+    },
+    {
+        "Question": "Consider the proper subsets of {1, 2, 3, 4}. How many of these proper subsets are superset of the set {3} ?",
+        "optionA": "5",        
+        "optionB": "6",        
+        "optionC": "7",        
+        "optionD": "8",        
+        "correctAns": "optionC",
+        "tags": ["Maths", "Sets"]
+    },
+    {
+        "Question": "The center of the circle (x - 2a) ((x - 2b) + (y - 2c) (y - 2d) = 0 is ",
+        "optionA": "(2a, 2c)",        
+        "optionB": "(2b, 2d)",        
+        "optionC": "(a + b, c + d)",        
+        "optionD": "(a - b, c - d)",        
+        "correctAns": "optionC",
+        "tags": ["Maths", "Coordinate Geometry"]
+    },
+    {
+        "Question": "If the foot of the perpendicular drawn from the point (0, k) to the line 3x - 4y - 5 = 0 is (3, 1), then what is the value of k ?",
+        "optionA": "3",        
+        "optionB": "4",        
+        "optionC": "5",        
+        "optionD": "6",        
+        "correctAns": "optionC",
+        "tags": ["Maths", "Coordinate Geometry"]
+    },
+
+
+
+
+
+    {
+        "Question": "Two adjacent sides of a parallelogram are 2i - 4j + 5k and i - 2j - 3k. What is the magnitude of dot product of vectors which represent its diagonals ?",
+        "optionA": "21",        
+        "optionB": "25",        
+        "optionC": "31",        
+        "optionD": "36",        
+        "correctAns": "optionC",
+        "tags": ["Maths", "Vector"]
+    },
+    {
+        "Question": "What is the value of k such that integration of (3x^2 + 8 - 4k) / x with respect to x, may be a rational function ?",
+        "optionA": "0",        
+        "optionB": "1",        
+        "optionC": "2",        
+        "optionD": "-2",        
+        "correctAns": "optionC",
+        "tags": ["Maths", "Integration"]
+    },
+    {
+        "Question": "What is the maximum value of sin x . cos x ?",
+        "optionA": "2",        
+        "optionB": "1",        
+        "optionC": "1/2",        
+        "optionD": "2.5",        
+        "correctAns": "optionC",
+        "tags": ["Maths", "Trigonometry"]
+    },
+    {
+        "Question": "What is the solution of the differential equation (dy/dx) = x ?",
+        "optionA": " y = e^x + c",        
+        "optionB": " y = e^-x + c",        
+        "optionC": " y = ln x + c",        
+        "optionD": "y = 2 ln x + c",        
+        "correctAns": "optionA",
+        "tags": ["Maths", "Differential Equation"]
+    },
+    {
+        "Question": " The numbers 4 and 9 have frequencies x and (x - 1) respectively. If their arithmetic mean is 6, then what is the value of x ?",
+        "optionA": "2",        
+        "optionB": "3",        
+        "optionC": "4",        
+        "optionD": "5",        
+        "correctAns": "optionB",
+        "tags": ["Maths", "Probability"]
+    },
+    {
+        "Question": "If three dice are rolled under the condition that no two dice show the same face, then what is the probability that one of the faces is having the number 6 ?",
+        "optionA": "5/6",        
+        "optionB": "5/9",        
+        "optionC": "1/2",        
+        "optionD": "5/12",        
+        "correctAns": "optionB",
+        "tags": ["Maths", "Probability"]
+    },
+    {
+        "Question": " The sum of deviations of n number of observations measured from 2.5 is 50. The sum of deviations of the same set of observations measured from 3.5 is -50. What is the value of n ?",
+        "optionA": "50",        
+        "optionB": "60",        
+        "optionC": "80",        
+        "optionD": "100",        
+        "correctAns": "optionD",
+        "tags": ["Maths", "Probability"]
+    },
+    {
+        "Question": " A force of 78 grams acts at the point (2, 3, 5). The direction ratios of the line of action being 2, 2, 1. The magnitude of its moment about the line joining the origin to the point (12, 3, 4) is",
+        "optionA": "24",        
+        "optionB": "136",        
+        "optionC": "36",        
+        "optionD": "0",        
+        "correctAns": "optionB",
+        "tags": ["Maths", "Vector"]
+    },
+    {
+        "Question": "In a parallelogram ABCD, P is the midpoint AD. Also, BP and AC intersect at Q. Then AQ : QC =",
+        "optionA": "1:3",        
+        "optionB": "3:1",        
+        "optionC": "2:1",        
+        "optionD": "1:2",        
+        "correctAns": "optionD",
+        "tags": ["Maths", "Coordinate Geometry"]
+    },
+    {
+        "Question": " Number of onto (surjective) functions from A to B if n(A) = 6 and n(B) = 3 is",
+        "optionA": "2^6 - 2",        
+        "optionB": "3^6 - 3",        
+        "optionC": "340",        
+        "optionD": "540",        
+        "correctAns": "optionD",
+        "tags": ["Maths", "Sets"]
+    }
+]

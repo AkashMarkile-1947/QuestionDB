@@ -1,0 +1,282 @@
+[
+    {
+        "Question": "Choose the correct expression of approval:",
+        "optionA": "super!",
+        "optionB": "rotten!",
+        "optionC": "damn!",
+        "optionD": "hell!",
+        "correctAns": "optionA",
+        "tags": ["English,Grammer"]
+    },
+    {
+        "Question": "Which of the following is a Noun?",
+        "optionA": "carelessness",
+        "optionB": "careless",
+        "optionC": "carelessly",
+        "optionD": "caring",
+        "correctAns": "optionA",
+        "tags": ["English,Grammer"]
+    },
+    {
+        "Question": "Choose the word that accurately signifies a student who avoids attending classes.",
+        "optionA": "diligent",
+        "optionB": "callous",
+        "optionC": "morose",
+        "optionD": "truant",
+        "correctAns": "optionD",
+        "tags": ["English,Grammer"]
+    },
+    {
+        "Question": "Identify the type of error in the following sentence: Some of the books, were destroyed.",
+        "optionA": "syntactical error",
+        "optionB": "punctuation error",
+        "optionC": "grammatical error",
+        "optionD": "conflicting error",
+        "correctAns": "optionB",
+        "tags": ["English,Grammer"]
+    },
+    {
+        "Question": "Pick the word similar in meaning:  ALLEVIATE",
+        "optionA": "clear",
+        "optionB": "lessen",
+        "optionC": "match",
+        "optionD": "incite",
+        "correctAns": "optionB",
+        "tags": ["English,Grammer"]
+    },
+    {
+        "Question": "Pick the word opposite in meaning: ABSURD",
+        "optionA": "cruel",
+        "optionB": "sensible",
+        "optionC": "calm",
+        "optionD": "sturdy",
+        "correctAns": "optionB",
+        "tags": ["English,Grammer"]
+    },
+    {
+        "Question": "Identify the meaning of: It was all Greek to me...",
+        "optionA": "difficult to speak",
+        "optionB": "difficult to write",
+        "optionC": "difficult to arrange",
+        "optionD": "difficult to understand",
+        "correctAns": "optionD",
+        "tags": ["English,Grammer"]
+    },
+    {
+        "Question": "TO VOUCH FOR means",
+        "optionA": "to confirm",
+        "optionB": "to degrade",
+        "optionC": "to follow",
+        "optionD": "to supersede",
+        "correctAns": "optionA",
+        "tags": ["English,Grammer"]
+    },
+    {
+        "Question": "TO HOLD YOUR HORSES means",
+        "optionA": "to be ready",
+        "optionB": "to be patient",
+        "optionC": "to be eager",
+        "optionD": "to be impatient",
+        "correctAns": "optionB",
+        "tags": ["English,Grammer"]
+    },
+    {
+        "Question": "choose the right option for: Blessing in disguise is...",
+        "optionA": "something good",
+        "optionB": "something unrecognised",
+        "optionC": "something know to all",
+        "optionD": "something good but not recognised at first",
+        "correctAns": "optionD",
+        "tags": ["English,Grammer"]
+    },
+
+
+
+
+    
+    {
+        "Question": "Select the most suitable synonym for the uppercase word in the sentence. All the members of organization expressed IMPLACABLE opposition to the move",
+        "optionA": "Indignant",
+        "optionB": "Adamant",
+        "optionC": "Unified",
+        "optionD": "Quixotic",
+        "correctAns": "optionB",
+        "tags": ["English,Grammer"]
+    },
+    {
+        "Question": "Fill in the blank choosing the correct adjective: The phoenix is a_________ Bird.",
+        "optionA": "Mythical",
+        "optionB": "Ethical",
+        "optionC": "Natural",
+        "optionD": "Carnivorous",
+        "correctAns": "optionA",
+        "tags": ["English,Grammer"]
+    },
+    {
+        "Question": "Which of the following is the correct passive of the sentence. JOHN HAS EATEN THE APPLES?",
+        "optionA": "The apples are being eaten by John",
+        "optionB": "The apples are eaten by John",
+        "optionC": " The apples have been eaten by John",
+        "optionD": "The apples will be eaten by John",
+        "correctAns": "optionC",
+        "tags": ["English,Grammer"]
+    },
+    {
+        "Question": " Choose one of the words that is most nearly same as meaning of the given word Indemnify",
+        "optionA": "insure",
+        "optionB": "compensate for loss",
+        "optionC": "assure",
+        "optionD": "sue for damages",
+        "correctAns": "optionB",
+        "tags": ["English,Grammer"]
+    },
+    {
+        "Question": " Select a word from the given alternatives which has the same meaning as the underlined word: He has a propensity for getting into debt.",
+        "optionA": "tendency",
+        "optionB": "aptitude",
+        "optionC": "characteristic",
+        "optionD": "quality",
+        "correctAns": "optionA",
+        "tags": ["English,Grammer"]
+    },
+    {
+        "Question": "Select the most suitable synonym from the given choices for the word: ANTEDILUVIAN",
+        "optionA": "recluse",
+        "optionB": "maverick",
+        "optionC": "archaic",
+        "optionD": "bellicose",
+        "correctAns": "optionC",
+        "tags": ["English,Grammer"]
+    },
+    {
+        "Question": "Choose a phrasal verb to replace the explanation in brackets: We must (be quick) or we'll be late for school",
+        "optionA": "act up",
+        "optionB": "hurry up",
+        "optionC": "fasten on",
+        "optionD": "speed in",
+        "correctAns": "optionB",
+        "tags": ["English,Grammer"]
+    },
+    {
+        "Question": "Anne had to pay for everything because as usual, Peter ____ his wallet at home",
+        "optionA": "had left",
+        "optionB": "was leaving",
+        "optionC": "left",
+        "optionD": "leave",
+        "correctAns": "optionA",
+        "tags": ["English,Grammer"]
+    },
+    {
+        "Question": "Extreme old age when a man behaves like a child",
+        "optionA": "imbecility",
+        "optionB": "senility",
+        "optionC": "dotage",
+        "optionD": "superannuation",
+        "correctAns": "optionC",
+        "tags": ["English,Grammer"]
+    },
+    {
+        "Question": "Find the synonym that is most nearly similar in meaning to the word : DEBACLE",
+        "optionA": "Catastrophe",
+        "optionB": "Dandy",
+        "optionC": "Corker",
+        "optionD": "Opulence",
+        "correctAns": "optionA",
+        "tags": ["English,Grammer"]
+    },
+    
+    
+
+
+
+    {
+        "Question": "Which of the following is close to the meaning of the word, IMPOLITIC?",
+        "optionA": "Impolite",
+        "optionB": "Intolerant",
+        "optionC": "Incongruous",
+        "optionD": "Injudicious",
+        "correctAns": "optionD",
+        "tags": ["English,Grammer"]
+    },
+    {
+        "Question": "Which collocation goes with the word AWARE?",
+        "optionA": "rightly",
+        "optionB": "fully",
+        "optionC": "nearly",
+        "optionD": "exactly",
+        "correctAns": "optionB",
+        "tags": ["English,Grammer"]
+    },
+    {
+        "Question": "Choose the correct spelling for the word given below.",
+        "optionA": "Cieling",
+        "optionB": "Cealing",
+        "optionC": "Ceiling",
+        "optionD": "Ceeling",
+        "correctAns": "optionC",
+        "tags": ["English,Grammer"]
+    },
+    {
+        "Question": " Which of the following is the closest in meaning to the word, CLOWN?",
+        "optionA": "idiot",
+        "optionB": "dunce",
+        "optionC": "don",
+        "optionD": "jester",
+        "correctAns": "optionD",
+        "tags": ["English,Grammer"]
+    },
+    {
+        "Question": "The other boys or Henry _____ to blame",
+        "optionA": "is",
+        "optionB": "are",
+        "optionC": "were",
+        "optionD": "will",
+        "correctAns": "optionA",
+        "tags": ["English,Grammer"]
+    },
+    {
+        "Question": "The State Transportation Corporation has ________ a loss of 5 crore INR this year",
+        "optionA": "derived",
+        "optionB": "incurred",
+        "optionC": "performed",
+        "optionD": "formulated",
+        "correctAns": "optionB",
+        "tags": ["English,Grammer"]
+    },
+    {
+        "Question": "The tall prefers rooms with _______ ceilings.",
+        "optionA": "tall",
+        "optionB": "long",
+        "optionC": "higher",
+        "optionD": "high",
+        "correctAns": "optionD",
+        "tags": ["English,Grammer"]
+    },
+    {
+        "Question": "I cannot _________ it to you right now; tomorrow we will discuss about it",
+        "optionA": "demand",
+        "optionB": "disturb",
+        "optionC": "explain",
+        "optionD": "expect",
+        "correctAns": "optionC",
+        "tags": ["English,Grammer"]
+    },
+    {
+        "Question": "The car driver was arrested for rash driving and his license was __________ by the police",
+        "optionA": "impounded",
+        "optionB": "flown",
+        "optionC": "penalized",
+        "optionD": "banned",
+        "correctAns": "optionC",
+        "tags": ["English,Grammer"]
+    },
+    {
+        "Question": "Write one word for the following: An uncivilized/primitive person",
+        "optionA": "barbarian",
+        "optionB": "ascetic",
+        "optionC": "bourgeois",
+        "optionD": "altrust",
+        "correctAns": "optionA",
+        "tags": ["English,Grammer"]
+    }
+]
