@@ -1,0 +1,187 @@
+[
+    {
+        "Question": "The number that comes next inthe series 1, 2, 3, 6, 11, 20, 37, 68, .... is",
+        "optionA": "105",        
+        "optionB": "124",        
+        "optionC": "125",        
+        "optionD": "126",        
+        "correctAns": "optionC",
+        "tags": ["Logical Reasoning", "Series"]
+    },
+    {
+        "Question": "Using only 2, 5, 10, 25 and 50 paise coins, the smallest number of coins required to pay exactly 79 paise, 66 paise, and Re. 1.01 to three different persons is",
+        "optionA": "17",        
+        "optionB": "20",        
+        "optionC": "19",        
+        "optionD": "18",        
+        "correctAns": "optionC",
+        "tags": ["Logical Reasoning", "Series"]
+    },
+    {
+        "Question": "What pair comes next in the following sequence; 99, 90, 83, 78, ....",
+        "optionA": "71,69",        
+        "optionB": "69,57",        
+        "optionC": "67,59",        
+        "optionD": "69,63",        
+        "correctAns": "optionA",
+        "tags": ["Logical Reasoning", "Series"]
+    },
+    {
+        "Question": "A dealer offers a cash discount of 20% and still makes a profit of 20% when he further allows 16 articles to a dozen to a particularly sticky bargainer. How much above the actual price was the listed price of the article ?",
+        "optionA": "100%",        
+        "optionB": "80%",        
+        "optionC": "75%",        
+        "optionD": "66%",        
+        "correctAns": "optionA",
+        "tags": ["Logical Reasoning", "Profit and loss"]
+    },
+    {
+        "Question": "A clock is set right at 5 AM. The clock loses 16 m in 24hours .What will be the night time when the clock indicates 10 pm on the 4th day ?",
+        "optionA": "11.15 PM",        
+        "optionB": "11. 00 PM",        
+        "optionC": "12.00 PM",        
+        "optionD": "12.30 PM",        
+        "correctAns": "optionB",
+        "tags": ["Logical Reasoning", "Clock"]
+    },
+    {
+        "Question": "A train overtakes two persos who are walking in the same direction in which the train is moving at the rate of 2kmph and 4kmph and passes them completely in 9 and 10 seconds respectively. Then length of the train is",
+        "optionA": "72m",        
+        "optionB": "54m",        
+        "optionC": "50m",        
+        "optionD": "45m",        
+        "correctAns": "optionC",
+        "tags": ["Logical Reasoning", "Speed and distance"]
+    },
+    {
+        "Question": "Ten points are marked on a straight line and eleven poins are marked on another straight line. How many triangles can be constructed with vertices from among the above points ?",
+        "optionA": "495",        
+        "optionB": "550",        
+        "optionC": "1045",        
+        "optionD": "2475",        
+        "correctAns": "optionC",
+        "tags": ["Logical Reasoning", "Permutation and Combination"]
+    },
+    {
+        "Question": "The greatest number which on dividing 1657 and 2037 leaves remainders 6 and 5 respectively is",
+        "optionA": "123",        
+        "optionB": "127",        
+        "optionC": "235",        
+        "optionD": "305",        
+        "correctAns": "optionB",
+        "tags": ["Logical Reasoning", "HCF and LCM"]
+    },
+    {
+        "Question": "If 137 + 276 = 435, how much is 731 + 672 ?",
+        "optionA": "534",        
+        "optionB": "1403",        
+        "optionC": "1623",        
+        "optionD": "1531",        
+        "correctAns": "optionC",
+        "tags": ["Logical Reasoning", "Series"]
+    },
+    {
+        "Question": "Each family in a locality has at most two adults, and no family has fewer than 3 children. Considering all the families together, there are more adults than boys, more boys than girls, and more girls than families. Then the minimum possible number of familes in the locality is",
+        "optionA": "4",        
+        "optionB": "3",        
+        "optionC": "2",        
+        "optionD": "5",        
+        "correctAns": "optionB",
+        "tags": ["Logical Reasoning", "miscellaneous"]
+    },
+
+
+
+
+
+    {
+        "Question": "How many 4-digit numbers can be formed from the digits 2, 3, 5, 6, 7 and 9, which are divisible by 5 and none of the digits is repeated ?",
+        "optionA": "216",        
+        "optionB": "60",        
+        "optionC": "24",        
+        "optionD": "25",        
+        "correctAns": "optionB",
+        "tags": ["Logical Reasoning", "Permutation and Combination"]
+    },
+    {
+        "Question": "How many positive integers less than 10,000 are such that the product of their digits is 210?",
+        "optionA": "36",        
+        "optionB": "42",        
+        "optionC": "48",        
+        "optionD": "54",        
+        "correctAns": "optionD",
+        "tags": ["Logical Reasoning", "Number system"]
+    },
+    {
+        "Question": "Each of the five people, K, L, M, P and Q is of a different weight. It is known that the number of people heavier than P is the same as the number of people lighter than Q. L is the heaviest and K is not the lightest. Who is the lightest?",
+        "optionA": "M",        
+        "optionB": "L",        
+        "optionC": "Q",        
+        "optionD": "P",        
+        "correctAns": "optionA",
+        "tags": ["Logical Reasoning", "miscellaneous"]
+    },
+    {
+        "Question": " In a certain code language, if the word BASKET is coded as UFLTBC, then how is the word SIMPLE coded in that language?",
+        "optionA": "FMQNJT",        
+        "optionB": "FMQGNJ",        
+        "optionC": "FMQNJH",        
+        "optionD": "MFNQTJ",        
+        "correctAns": "optionA",
+        "tags": ["Logical Reasoning", "Coding decoding"]
+    },
+    {
+        "Question": "If NOIDA is written as OPJEB, then what will be the code for DELHI?",
+        "optionA": "EFMAK",        
+        "optionB": "EFAMK",        
+        "optionC": "EFMIJ",        
+        "optionD": "EFMIK",        
+        "correctAns": "optionC",
+        "tags": ["Logical Reasoning", "Coding decoding"]
+    },
+    {
+        "Question": "From a group of 7 men and 6 women , a committee of 5 person with more males than females is to be formed. In how many ways can this be done ?",
+        "optionA": "564",        
+        "optionB": "645",        
+        "optionC": "735",        
+        "optionD": "756",        
+        "correctAns": "optionD",
+        "tags": ["Logical Reasoning", "Permutation and Combination"]
+    },
+    {
+        "Question": "The following series is obtained by considering representations of decimal 99 in different number systems. 99, 90 , 83 , 78 ___ , ___",
+        "optionA": "71,69",        
+        "optionB": "69,57",        
+        "optionC": "67,59",        
+        "optionD": "69,63",        
+        "correctAns": "optionA",
+        "tags": ["Logical Reasoning", "Series"]
+    },
+    {
+        "Question": "A Cube is made up of 125 one cm. square cubes placed on a table . How many squares are visible only on three sides ?",
+        "optionA": "4",        
+        "optionB": "8",        
+        "optionC": "12",        
+        "optionD": "16",        
+        "correctAns": "optionA",
+        "tags": ["Logical Reasoning", "Cube and dice"]
+    },
+    {
+        "Question": "A caterpiller crawls up a pole of 75 inches high , standing from the round . Each day it crawls up 5 inches and each night it slides down 4 inches . When will it reach the top",
+        "optionA": "At the end of 70 days",        
+        "optionB": "At the end of 71 days",        
+        "optionC": " At the end of 72 days",        
+        "optionD": "At the end of 73 days",        
+        "correctAns": "optionB",
+        "tags": ["Logical Reasoning", "miscellaneous"]
+    },
+    {
+        "Question": "John is 20 years older than Steve . In 10 year , Steve” s age will be half that of John , What is steve’s age now ?",
+        "optionA": "2",        
+        "optionB": "8",        
+        "optionC": "10",        
+        "optionD": "20",        
+        "correctAns": "optionC",
+        "tags": ["Logical Reasoning", "Age problems"]
+    }
+]

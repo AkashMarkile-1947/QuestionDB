@@ -1,0 +1,186 @@
+ [
+    {
+        "Question": "To fetch data from the secondary memory which one of the following register is used ",
+        "optionA": "MAR",
+        "optionB": "PC",
+        "optionC": "IR",
+        "optionD": "MBR",
+        "correctAns": "optionA",
+        "tags": ["Computer,MemoryMgmt"]
+    },
+    {
+        "Question": "The cache memory is more effective because of",
+        "optionA": "Memory localization",
+        "optionB": "Locality of reference",
+        "optionC": "Memory size",
+        "optionD": "none",
+        "correctAns": "optionB",
+        "tags": ["Computer,MemoryMgmt"]
+    },
+    {
+        "Question": "To access the I/O devices the status flags is continuously checked in",
+        "optionA": "Program controlled I/O",
+        "optionB": "Memory mapped I/O",
+        "optionC": "I/O mapped ",
+        "optionD": "none",
+        "correctAns": "optionA",
+        "tags": ["Computer,MemoryMgmt"]
+    },
+    {
+        "Question": "Which of the following is the fastest means of memory access for CPU?",
+        "optionA": "Register",
+        "optionB": "Cache",
+        "optionC": "Main Memory",
+        "optionD": "Stack",
+        "correctAns": "optionA",
+        "tags": ["Computer,MemoryMgmt"]
+    },
+    {
+        "Question": "The process when processor fetch or decode another instruction during the execution of current instruction is called ",
+        "optionA": "Supercomputing",
+        "optionB": "Pipelining",
+        "optionC": "Cloud computing",
+        "optionD": "Grid computing ",
+        "correctAns": "optionB",
+        "tags": ["Computer,Basics"]
+    },
+    {
+        "Question": " Which of the following is used by ALU to store the intermediate results?",
+        "optionA": "Stack",
+        "optionB": "Heap",
+        "optionC": "Registers",
+        "optionD": "Accumulators",
+        "correctAns": "optionD",
+        "tags": ["Computer,MemoryMgmt"]
+    },
+    {
+        "Question": "The binary multiplication 00*11 will give",
+        "optionA": "11",
+        "optionB": "00",
+        "optionC": "01",
+        "optionD": "10",
+        "correctAns": "optionB",
+        "tags": ["Computer,NoSys"]
+    },
+    {
+        "Question": "If N is a 16-bit signed integer, the 2's complement representation of N is (F87B)16. The 2's complement representation of 8* N is",
+        "optionA": "(C3D8)16",
+        "optionB": "(187B)16",
+        "optionC": "(F878)16",
+        "optionD": "(987B)16",
+        "correctAns": "optionA",
+        "tags": ["Computer,NoSys"]
+    },
+    {
+        "Question": "The base (or radix) of the number system such that the following equation holds 312/20= 13.1 is",
+        "optionA": "3",
+        "optionB": "4",
+        "optionC": "5",
+        "optionD": "6",
+        "correctAns": "optionC",
+        "tags": ["Computer,NoSys"]
+    },
+    {
+        "Question": "How many Boolean expression can be formed with 3 Boolean variables?",
+        "optionA": "16",
+        "optionB": "1024",
+        "optionC": "32",
+        "optionD": "256",
+        "correctAns": "optionD",
+        "tags": ["Computer,NoSys"]
+    },
+
+
+
+
+    {
+        "Question": "In an 8 bit representation of computer system the decimal number 47 has to be subtracted from 38 and the result in binary 2's complement is",
+        "optionA": "11110111",
+        "optionB": "10001001",
+        "optionC": "11111001",
+        "optionD": "11110001",
+        "correctAns": "optionA",
+        "tags": ["Computer,NoSys"]
+    },
+    {
+        "Question": "In IEEE single precision floating point representation, exponent is represented in",
+        "optionA": "8 bit Sign-magnitude representation",
+        "optionB": "8 bit 2's complement representation",
+        "optionC": "Biased exponent representation with a bias value of 127",
+        "optionD": " Biased exponent representation with a bias value of 128",
+        "correctAns": "optionC",
+        "tags": ["Computer,NoSys"]
+    },
+    {
+        "Question": "With 4-bit 2's complement arithmetic, which of the following addition will result in overflow?",
+        "optionA": "1111 + 1101",
+        "optionB": "0110 + 0110",
+        "optionC": "1101 + 0101",
+        "optionD": "0101 + 1011",
+        "correctAns": "optionB",
+        "tags": ["Computer,NoSys"]
+    },
+    {
+        "Question": "If we can generate a maximum of 4 Boolean functions using n Boolean variables, what will be the minimum value of n?",
+        "optionA": "65536",
+        "optionB": "16",
+        "optionC": "1",
+        "optionD": "4",
+        "correctAns": "optionC",
+        "tags": ["Computer,NoSys"]
+    },
+    {
+        "Question": "If the 2's complement representation of a number is (011010)2, what is its equivalent hex-adecimal representation?",
+        "optionA": "(110)16",
+        "optionB": "(16)16",
+        "optionC": "(1A)16",
+        "optionD": "(26)16",
+        "correctAns": "optionB",
+        "tags": ["Computer,NoSys"]
+    },
+    {
+        "Question": "Which of the following represents (D4)16 ?",
+        "optionA": "(4E)16 - (5B)16",
+        "optionB": "(14E)16 - (7A)16",
+        "optionC": "(15C)16 - (6D)16",
+        "optionD": "(1E4)16 - (A7)16",
+        "correctAns": "optionB",
+        "tags": ["Computer,NoSys"]
+    },
+    {
+        "Question": " Let the memory access time is 10 milliseconds and cache access time is 10 microseconds. Assume the cache hit ratio 15%. The effective memory access time is",
+        "optionA": "2 ms",
+        "optionB": "1.5 ms",
+        "optionC": "1.95 ms",
+        "optionD": "1.85 ms",
+        "correctAns": "optionD",
+        "tags": ["Computer,MemoryMgmt"]
+    },
+    {
+        "Question": "In order to store floating numbers in computers using the normalized representation and 32-bit single precision, the number of bits used for exponent and fraction are ________, __________ respectively.",
+        "optionA": "11, 21",
+        "optionB": "16, 15",
+        "optionC": "16, 16",
+        "optionD": "8, 23",
+        "correctAns": "optionD",
+        "tags": ["Computer,NoSys"]
+    },
+    {
+        "Question": "If a signal passing through a gate is inhibited by sending a low into one of the inputs and the output is high, the gate is",
+        "optionA": "NOR",
+        "optionB": "NAND",
+        "optionC": "AND",
+        "optionD": "OR",
+        "correctAns": "optionB",
+        "tags": ["Computer,Gates"]
+    },
+    {
+        "Question": "What type of errors are not detected by assemblers?",
+        "optionA": "syntax error",
+        "optionB": "runtime error",
+        "optionC": "logical error",
+        "optionD": "all of these",
+        "correctAns": "optionC",
+        "tags": ["Computer,Basics"]
+    }   
+]
